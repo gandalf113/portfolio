@@ -1,6 +1,6 @@
 # portfolio
 
-
+<h4>Uwaga! Wszystkie poniższe repozytoria są prywatne. Powinieneś mieć na mailu zaproszenie do dołączenia jako collaborator</h4>
 <h3>1. React/Python - aplikacja webowa<br>
 Dostępna pod adresem: https://pakerszama.pl/</h3>
 https://github.com/gandalf113/recipely-api <br>
