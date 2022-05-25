@@ -1,6 +1,6 @@
 # portfolio
 
-<h4>Uwaga! Repozytorium Lift Analyst jest prywatne. Powinieneś mieć na mailu zaproszenie do dołączenia jako collaborator</h4>
+<h4>Uwaga! Większość repozytoriów jest prywatna. Powinieneś mieć na mailu zaproszenie do dołączenia jako collaborator</h4>
 <h3>1. React/Python - aplikacja webowa<br>
 Dostępna pod adresem: https://pakerszama.pl/</h3>
 https://github.com/gandalf113/recipely-api <br>
