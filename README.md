@@ -5,6 +5,7 @@
 Dostępna pod adresem: https://pakerszama.pl/</h3>
 https://github.com/gandalf113/recipely-api [PRYWATNE]<br>
 https://github.com/gandalf113/recipely-client [PRYWATNE]<br>
+![Pakerszama](pakerszama.png)
 
 <h3>2. React/Electron - aplikacja desktopowa </h3>
 https://github.com/gandalf113/komis-olus-desktop2
